@@ -2,18 +2,18 @@
 
 ### Задание 1
 
-![img](img/img1.png)`
+![img](img/img1.png)
 
-![img](img/img2.png)`
+![img](img/img2.png)
 
 ---
 
 ### Задание 2 - 3
 
-![img](img/img3.png)`
+![img](img/img3.png)
 
 ---
 
 ### Задание 4
 
-![img](img/img4.png)`
+![img](img/img4.png)
